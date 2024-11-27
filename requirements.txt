@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pytubefix
+reportlab
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
